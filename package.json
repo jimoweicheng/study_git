@@ -13,6 +13,9 @@
   "keywords": [
     "test"
   ],
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
+  },
   "author": "liufang",
   "license": "ISC",
   "bugs": {
